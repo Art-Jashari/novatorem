@@ -1,4 +1,9 @@
- {
+{
+  "functions": {
+    "api/spotify.py": {
+      "runtime": "python3.9"
+    }
+  },
   "redirects": [
     {
       "source": "/",
